@@ -1,0 +1,142 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Aug 08 03:17:37 2022
+[*]
+[dumpfile] "D:\14.7\Xilinix_Projects\TSY_Design_Learning_Task_1\Workspace\build\AXI4_Interconnect_tb.vcd"
+[dumpfile_mtime] "Mon Aug 08 02:08:31 2022"
+[dumpfile_size] 19967
+[savefile] "D:\14.7\Xilinix_Projects\TSY_Design_Learning_Task_1\Workspace\build\Verbose_Multiple_Masters_(One_Master_in_Testbench_Only_Write_Transaction)_and_Single_Slave_with_Interconnect_Waveform.gtkw"
+[timestart] 0
+[size] 1920 1013
+[pos] -1 -1
+*-6.045411 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] AXI4_Interconnect_tb.
+[sst_width] 256
+[signals_width] 322
+[sst_expanded] 1
+[sst_vpaned_height] 293
+@25
+AXI4_Interconnect_tb.u_AXI4_Interconnect.currentMaster[2:0]
+@24
+AXI4_Interconnect_tb.u_AXI4_Interconnect.masterIndex[2:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_1_Set
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_1_Release
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_2_Set
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_2_Release
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_ACLK
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_ARESET
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWADDR[4:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWBURST[1:0]
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWLEN[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_AWSIZE[2:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_WVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_WREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_WID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_WDATA[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_WLAST
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_BVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_BREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_BID[3:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M1_BRESP[1:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ACLK
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARESET
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_2_Set
+AXI4_Interconnect_tb.u_AXI4_Interconnect.Master_2_Release
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.doReadAddressStall
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.readAddressChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.readAddressChannelEnabled
+@22
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.readTransactionID[3:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.readTransactionID[3:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARADDR[4:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARBURST[1:0]
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARLEN[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ARSIZE[2:0]
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.readChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.readChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.firstTimeInitArrayAddress
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RDATA[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RLAST
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_RRESP[1:0]
+@22
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.readAddressARRAY[4:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.readAddressBRAM[4:0]
+@24
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.register[0].wireOfPoly[7:0]
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.register[1].wireOfPoly[7:0]
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.register[2].wireOfPoly[7:0]
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.register[3].wireOfPoly[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.performOperations
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.writeAddressChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.writeAddressChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.doWriteDataStall
+@22
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.writeTransactionID[3:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.writeTransactionID[3:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWADDR[4:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWBURST[1:0]
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWLEN[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_AWSIZE[2:0]
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.writeChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.writeChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.firstTimeInitBRAMAddress
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_WVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_WREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_WID[3:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_WDATA[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_WLAST
+@22
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.writeAddressARRAY[4:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.writeAddressBRAM[4:0]
+@24
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.register[0].wireOfBRAM[7:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.register[1].wireOfBRAM[7:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.register[2].wireOfBRAM[7:0]
+AXI4_Interconnect_tb.u_AXI4_BRAM_Controller.register[3].wireOfBRAM[7:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Poly_Add.writeResponseChannelEnabled
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_BVALID
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_BREADY
+@22
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_BID[3:0]
+@28
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_BRESP[1:0]
+AXI4_Interconnect_tb.u_AXI4_Interconnect.M2_ACLK
+[pattern_trace] 1
+[pattern_trace] 0
